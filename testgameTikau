@@ -1,0 +1,21 @@
+checkers::print_board(game.board()).unwrap();
+
+stdin().read_line(&mut line);let parse_result = checkers::parse_move(&line);
+
+let move_result = apply_positions_as_move(&mut game, positions);
+
+Ok(game_state) => match game_state {
+	GameState::InProgress => { },	
+	GameState::GameOver{winner_id} => { }
+}let mut game: Game = self.games.get(game_id).expect("Game not found");
+
+assert_eq!(game.current_player_account_id(), env::predecessor_account_id(), "ERR_NO_ACCESS");
+let parse_result = input::parse_move(&line);
+
+let move_result = util::apply_positions_as_move(&mut game, positions);
+
+Ok(game_state) => match game_state {
+	GameState::InProgress => { },
+	GameState::GameOver{winner_id} => { }
+  
+}self.games.insert(&game_id, &game_to_save);

@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.4.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.3.0...website-v0.4.0) (2023-02-16)
+
+
+### Features
+
+* **website:** add alpha-1 shutdown banner ([#13159](https://github.com/taikoxyz/taiko-mono/issues/13159)) ([ce64a6f](https://github.com/taikoxyz/taiko-mono/commit/ce64a6fc3acb69821458efb098b3bb49665f1a1e))
+
+
+### Bug Fixes
+
+* **website:** fix darkmode bug on docs website ([#13101](https://github.com/taikoxyz/taiko-mono/issues/13101)) ([a6d9bed](https://github.com/taikoxyz/taiko-mono/commit/a6d9bed01ca2684e66f5f4aa045655938ab4b9f5))
+
 ## [0.3.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.2.0...website-v0.3.0) (2023-02-15)
 
 
